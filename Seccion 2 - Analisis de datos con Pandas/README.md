@@ -1,0 +1,72 @@
+# PARTE 2: Análisis de datos con Pandas.
+---
+
+## Índice de contenidos.
+- [**CLASE 1:** Estructuras de datos fundamentales de **Pandas****.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%202%20-%20Analisis%20de%20datos%20con%20Pandas/clase_2_1.ipynb)
+    - 1.1 Introducción.
+    - 1.2 Series.
+    - 1.3 DataFrames.
+    - 1.4 Índices.
+        - 1.4.1 Esquemas de indexación.
+        - 1.4.2 Filtrado.
+    - 1.5 Comentarios.
+- [**CLASE 2:** Manipulación de datos en series y DataFrames.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%202%20-%20Analisis%20de%20datos%20con%20Pandas/clase_2_3.ipynb)
+    - 2.1 Carga y guardado de datos en **Pandas**.
+    - 2.2 Iteraciones sobre filas.
+        - 2.2.1 Algunos comentarios en relación al tiempo de ejecución.
+        - 2.2.2 Comparativas entre accesos.
+        - 2.2.3 Vectorización.
+    - 2.3 Evaluadores.
+    - 2.4 Análisis exploratorio.
+    - 2.5 Modificaciones y transformaciones.
+        - 2.5.1 Agrupamiento mediante `groupby()`.
+        - 2.5.2 Agregaciones mediante `pd.pivot_table()`.
+    - 2.6 Ordenamiento de DataFrames.
+    - 2.7 Setting de índices en DataFrames.
+    - 2.8 Eliminación de índices duplicados.
+    - 2.9 Cálculo de estadígrafos.
+    - 2.10 Manejo de entradas vacías (`nan`).
+        - 2.10.1 El caso de **Numpy**.
+        - 2.10.2 El caso de **Pandas**.
+        - 2.10.3 Operaciones aptas para el manejo de `nan`.
+        - 2.10.4 Interpolaciones.
+    - 2.11 Comentarios.
+- [**CLASE 3**: Indexación jerárquica.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%202%20-%20Analisis%20de%20datos%20con%20Pandas/clase_2_3.ipynb)
+    - 3.1 Índices multinivel.
+        - 3.1.1 Como no debemos hacerlo...
+        - 3.1.2 Como sí debemos hacerlo...
+    - 3.2 El índice multinivel como dimensión extra.
+    - 3.3 Métodos de creación de índices multinivel.
+        - 3.3.1 Constructores explícitos de índices multinivel.
+        - 3.3.2 Nombres asociados a los niveles de un índice.
+        - 3.3.3 Setting de índices multinivel para columnas.
+    - 3.4 Selección de datos en estructuras multinivel.
+    - 3.5 Agregaciones en data multinivel.
+    - 3.6 Comentarios.
+- [**CLASE 4**: Combinación de DataFrames.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%202%20-%20Analisis%20de%20datos%20con%20Pandas/clase_2_4.ipynb)
+    - 4.1 Concatenación.
+        - 4.1.1 Concatenación básica.
+        - 4.1.2 Opciones derivadas del álgebra de conjuntos.
+        - 4.1.3 Concatenación de DataFrames y series.
+    - 4.2 Combinaciones de tipo base de datos con `pd.merge()`.
+        - 4.2.1 Categorías de combinación.
+        - 4.2.2 Esquemas relacionales de combinación.
+        - 4.2.3 Chequeo de valores duplicados.
+        - 4.2.4 Indicador del tipo de combinación.
+        - 4.2.5 Especificación de las columnas referenciadoras de una combinación.
+        - 4.2.6 Combinación respecto de índices de filas.
+    - 4.3 Comentarios.
+- [**CLASE 5**: Manejo de series de tiempo.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%202%20-%20Analisis%20de%20datos%20con%20Pandas/clase_2_5.ipynb)
+    - 5.1 Representación del tiempo en **Pandas**.
+        - 5.1.1 Representación nativa de fechas y tiempo en Python.
+        - 5.1.2 Representación del tiempo en **Numpy**.
+        - 5.1.3 El caso de **Pandas**.
+    - 5.2 Series de tiempo en **Pandas**.
+        - 5.2.1 Tipos de índices asociados a series de tiempo.
+        - 5.2.2 Construcción de secuencias regulares.
+    - 5.3 Remuestreo, desplazamientos y ventanas móviles de tiempo.
+        - 5.3.1 Remuestreo y conversión de frecuencias.
+        - 5.3.2 Desplazamientos (shifting).
+        - 5.3.3 Ventanas de tiempo móviles.
+    - 5.4 Un último comentario acerca de las zonas horarias.
+    - 5.5 Comentarios.
