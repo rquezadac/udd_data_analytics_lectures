@@ -1,0 +1,50 @@
+# PARTE 1: Análisis de datos con Numpy.
+---
+
+## Índice de contenidos.
+- [**CLASE 1:** Introducción a **Numpy**.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%201%20-%20Analisis%20de%20Datos%20con%20Numpy/clase_1_1.ipynb)
+    - 1.1 ¿Qué es **Numpy**?
+    - 1.2 Instalación de **Numpy**.
+    - 1.3 El concepto de arreglo.
+    - 1.4 Geometría de un arrego.
+    - 1.5 Rutinas de creación de arreglos.
+    - 1.6 Tipos de datos en **Numpy**.
+    - 1.7 Generación de números pseudo-aleatorios.
+    - 1.8 Aspectos fundamentales de los arreglos de **Numpy**.
+        - 1.8.1 Atributos de un arreglo.
+        - 1.8.2 Indexación de arreglos.
+        - 1.8.3 Slicing de arreglos.
+        - 1.8.4 Redimensionamiento de arreglos.
+        - 1.8.5 Unión de arreglos.
+        - 1.8.6 División de arreglos.
+    - 1.9 Comentarios.
+- [**CLASE 2:** Operatoria en **Numpy**.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%201%20-%20Analisis%20de%20Datos%20con%20Numpy/clase_1_2.ipynb)
+    - 2.1 Una observación acerca de los tiempos de ejecución.
+    - 2.2 Funciones universales.
+        - 2.2.1 Aritmética de arreglos.
+        - 2.2.2 Valor absoluto y norma.
+    - 2.3 Funciones trigonométricas.
+    - 2.4 Funciones logarítmicas y exponenciales.
+    - 2.5 Comentarios.
+- [**CLASE 3:** Operaciones de agregación.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%201%20-%20Analisis%20de%20Datos%20con%20Numpy/clase_1_3.ipynb)
+    - 3.1 El concepto de broadcasting.
+    - 3.2 Reglas de broadcasting.
+    - 3.3 Operaciones de agregación.
+    - 3.4 Comentarios.
+- [**CLASE 4:** Comparación, ordenamiento y reemplazo de arreglos.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%201%20-%20Analisis%20de%20Datos%20con%20Numpy/clase_1_4.ipynb)
+    - 4.1 Operadores de comparación.
+    - 4.2 Funciones con resultado Booleano.
+    - 4.3 Operadores Booleanos.
+    - 4.4 Masking.
+    - 4.5 Fancy indexing.
+    - 4.6 Ordenamiento de arreglos.
+    - 4.7 Reemplazo de los elementos de un arreglo.
+    - 4.8 Comentarios.
+- [**CLASE 5:** Aplicaciones en la construcción de modelos.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%201%20-%20Analisis%20de%20Datos%20con%20Numpy/clase_1_5.ipynb)
+    - 5.1 Aplicación Nº1: Modelo de regresión lineal.
+        - 5.1.1 Conceptos preliminares.
+        - 5.1.2 Implementación en **Numpy**.
+    - 5.2 Aplicación Nº2: Modelo de regresión logística binaria.
+        - 5.2.1 Conceptos preliminares.
+        - 5.2.2 Implementación de **Numpy**.
+    - 5.3 Comentarios.
