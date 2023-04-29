@@ -48,3 +48,9 @@
         - 5.2.1 Conceptos preliminares.
         - 5.2.2 Implementación de **Numpy**.
     - 5.3 Comentarios.
+
+---
+## Bibliografía y referencias.
+- VanderPlas, J. (2016). Python data science handbook: Essential tools for working with data. " O'Reilly Media, Inc.".
+- https://aman.ai/primers/numpy/ --> Un tutorial completísimo de **Numpy** (y muchos otros recursos) de Aman Chadha. Su página web es maravillosa, no duden en visitarla.
+- https://numpy.org/doc/stable/user/ --> La guía de usuario oficial de **Numpy**. Una documentación completísima relativa al uso de todos los módulos de esta maravillosa librería.
