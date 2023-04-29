@@ -1,0 +1,64 @@
+ # PARTE 3: Graficación con Matplotlib.
+---
+
+## Índice de contenidos.
+- [**CLASE 1:** Primeros pasos con **Matplotlib**.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%203%20-%20Graficacion%20con%20Matplotlib/clase_3_1.ipynb)
+    - 1.1 Introducción.
+    - 1.2 Guardado de figuras.
+    - 1.3 Setting de parámetros por defecto.
+    - 1.4 Interfaz de construcción de gráficos.
+        - 1.4.1 Interfaz de tipo Matlab.
+        - 1.4.2 Interfaz orientada a objetos.
+    - 1.5 Comentarios.
+- [**CLASE 2:** Fundamentos básicos de graficación.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%203%20-%20Graficacion%20con%20Matplotlib/clase_3_2.ipynb)
+    - 2.1 Gráficos de líneas.
+    - 2.2 Ajuste de colores y estilos.
+    - 2.3 Límites de ejes de graficación.
+    - 2.4 Rótulos de ejes, título y leyenda de un gráfico.
+    - 2.5 Equivalencias entre interfaces.
+    - 2.6 Gráficos de dispersión.
+        - 2.6.1 Uso de `plt.plot()`.
+        - 2.6.2 Uso de `plt.scatter()`.
+    - 2.7 Gráficos de área apilada.
+    - 2.8 Gráficos de contorno.
+    - 2.9 Histogramas y distribuciones.
+    - 2.10 Boxplots.
+    - 2.11 Imágenes.
+    - 2.12 Comentarios.
+- [**CLASE 3:** Personalización de gráficos y configuraciones adicionales.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%203%20-%20Graficacion%20con%20Matplotlib/clase_3_3.ipynb)
+    - 3.1 Personalización de leyendas.
+    - 3.2 Creación de ejes secundarios.
+    - 3.3 Personalización de barras de color.
+        - 3.3.1 Aspectos relativos a la elección de un mapa de colores.
+        - 3.3.2 Límites de color y extensiones.
+        - 3.3.3 Barras de color discretas.
+    - 3.4 Paneles de gráficos.
+        - 3.4.1 Subplots manuales.
+        - 3.4.2 Grillas automáticas.
+        - 3.4.3 Grillas instantáneas.
+    - 3.5 Incorporación de textos y anotaciones.
+        - 3.5.1 La función `plt.text()`.
+        - 3.5.2 Transformaciones y posición del texto.
+        - 3.5.3 Flechas y anotaciones con `plt.annotate()`.
+    - 3.6 Personalización de marcas de graduación.
+        - 3.6.1 Marcas de *ticks*.
+        - 3.6.2 Ocultamiento de *ticks*.
+        - 3.6.3 Reducción o incremento del número de *ticks*.
+        - 3.6.4 Formatos más personalizados de *ticks*.
+    - 3.7 Configuración de estilos.
+        - 3.7.1 Personalización manual de elementos estéticos.
+        - 3.7.2 Cambio de los parámetros por defecto en **Matplotlib**.
+        - 3.7.3 Hojas de estilo (*stylesheets*).
+    - 3.8 Comentarios.
+- [**CLASE 4:** Graficación de datos en tres dimensiones.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%203%20-%20Graficacion%20con%20Matplotlib/clase_3_4.ipynb)
+    - 4.1 Gráficos de líneas y dispersión.
+    - 4.2 Gráficos tridimensionales de contorno.
+    - 4.3 Gráficos de enmallado y superficie.
+    - 4.4 Triangulaciones.
+    - 4.5 Gráficos de barras tridimensionales.
+    - 4.6 Comentarios.
+- [**CLASE 5:** Una (pequeña) introducción a **Seaborn**.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%203%20-%20Graficacion%20con%20Matplotlib/clase_3_5.ipynb)
+    - 5.1 La librería **Seaborn**.
+    - 5.2 Visualización de distribuciones de frecuencias.
+    - 5.3 Mapas de calor.
+    - 5.4 Comentarios.

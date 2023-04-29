@@ -2,7 +2,7 @@
 ---
 
 ## Índice de contenidos.
-- [**CLASE 1:** Estructuras de datos fundamentales de **Pandas****.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%202%20-%20Analisis%20de%20datos%20con%20Pandas/clase_2_1.ipynb)
+- [**CLASE 1:** Estructuras de datos fundamentales de **Pandas**.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%202%20-%20Analisis%20de%20datos%20con%20Pandas/clase_2_1.ipynb)
     - 1.1 Introducción.
     - 1.2 Series.
     - 1.3 DataFrames.
