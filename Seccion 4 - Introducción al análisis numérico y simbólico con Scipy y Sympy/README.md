@@ -1,0 +1,72 @@
+# PARTE 4: Introducción al análisis numérico y simbólico con Scipy y Sympy.
+---
+
+## Índice de contenidos.
+- [**CLASE 1:** Primeros pasos en **Scipy**.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%204%20-%20Introducci%C3%B3n%20al%20an%C3%A1lisis%20num%C3%A9rico%20y%20simb%C3%B3lico%20con%20Scipy%20y%20Sympy/clase_4_1.ipynb)
+    - 1.1 Introducción.
+    - 1.2 El módulo `scipy.stats`.
+        - 1.2.1 Variables aleatorias y distribuciones.
+        - 1.2.2 Pruebas de hipótesis.
+        - 1.2.3 Estimación de funciones de densidad.
+        - 1.2.4 Bondad de ajuste.
+    - 1.3 Comentarios.
+- [**CLASE 2:** Introducción a la computación simbólica con **Sympy**](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%204%20-%20Introducci%C3%B3n%20al%20an%C3%A1lisis%20num%C3%A9rico%20y%20simb%C3%B3lico%20con%20Scipy%20y%20Sympy/clase_4_2.ipynb)
+    - 2.1 Introducción.
+    - 2.2 Símbolos.
+    - 2.3 Números.
+        - 2.3.1 Enteros.
+        - 2.3.2 Números de punto flotante.
+        - 2.3.3 Números racionales.
+        - 2.3.4 Constantes y símbolos especiales.
+    - 2.4 Funciones.
+    - 2.5 Expresiones.
+    - 2.6 Manipulación de expresiones.
+        - 2.6.1 Simplificaciones.
+        - 2.6.2 Expansiones.
+        - 2.6.3 Factorizaciones.
+        - 2.6.4 Descomposiciones.
+    - 2.7 Sustituciones.
+    - 2.8 Evaluación numérica de expresiones simbólicas.
+    - 2.9 Aplicaciones al cálculo diferencial.
+    - 2.10 Aplicaciones al cálculo integral
+    - 2.11 Aplicaciones a series numéricas.
+    - 2.12 Resolución de ecuaciones.
+    - 2.13 Aplicaciones al álgebra lineal.
+    - 2.14 Comentarios.
+- [**CLASE 3:** Optimización](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%204%20-%20Introducci%C3%B3n%20al%20an%C3%A1lisis%20num%C3%A9rico%20y%20simb%C3%B3lico%20con%20Scipy%20y%20Sympy/clase_4_3.ipynb)
+    - 3.1 Introducción.
+    - 3.2 Conceptos preliminares.
+    - 3.3 Valores extremos de funciones.
+        - 3.3.1 Caso no restringido.
+        - 3.3.2 Caso restringido incompleto - Multiplicadores de Lagrange.
+        - 3.3.3 Caso restringido general: Condiciones de Karush-Kuhn-Tucker (KKT).
+            - 3.3.3.1 Definición.
+            - 3.3.3.2 Problema dual.
+            - 3.3.3.3 Condiciones de Karush-Kuhn-Tucker (KKT).
+            - 3.3.3.4 Suficiencia.
+    - 3.4 Implementación en `scipy.optimize`.
+        - 3.4.1 Problemas no restringidos.
+        - 3.4.2 La función `scipy.optimize.minimize()`.
+        - 3.4.3 Problemas restringidos.
+    - 3.5 Optimización de tipo "black-box".
+        - 3.5.1 Algoritmo de evolución diferencial.
+        - 3.5.2 Algoritmo de optimización por enjambre de partículas (PSO).
+            - 3.5.2.1 Una implementación desde cero.
+            - 3.5.2.2 Implementación del algoritmo PSO en **PySwarms**.
+            - 3.5.2.3 Implementación de la API de bajo nivel de **PySwarms**.
+        - 3.5.3 Algoritmo de recocido simulado (simulated annealing).
+            - 3.5.3.1 Conceptualización.
+            - 3.5.3.2 Implementación en `scipy.optimize`.
+    - 3.6 Comentarios.
+- [**CLASE 4:** Interpolación](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Seccion%204%20-%20Introducci%C3%B3n%20al%20an%C3%A1lisis%20num%C3%A9rico%20y%20simb%C3%B3lico%20con%20Scipy%20y%20Sympy/clase_4_4.ipynb)
+    - 4.1 Introducción.
+    - 4.2 Interpolación polinomial.
+        - 4.2.1 Creación de polinomios en Python.
+        - 4.2.2 Interpolación polinomial por medio de `numpy.polynomial`.
+    - 4.3 Interpolación por splines.
+        - 4.3.1 Conceptualización.
+        - 4.3.2 Implementación en `scipy.interpolate`.
+    - 4.4 Interpolación multivariable.
+        - 4.4.1 Interpolación sobre nodos uniformemente distribuidos.
+        - 4.4.2 Interpolación sobre nodos no uniformemente distribuidos.
+    - 4.5 Comentarios.
