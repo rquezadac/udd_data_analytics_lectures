@@ -70,3 +70,17 @@
         - 4.4.1 Interpolación sobre nodos uniformemente distribuidos.
         - 4.4.2 Interpolación sobre nodos no uniformemente distribuidos.
     - 4.5 Comentarios.
+
+---
+## Bibliografía y referencias.
+
+- Apostol, T. M. (1991). Calculus, volume 1. John Wiley & Sons.
+- Ruiz, C. P., & de Jesús, C. (1995). Cálculo vectorial. Prentice-Hall Hispanoamericana.
+- Johansson, R. Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib, Apress, Berkeley, 2019. DOI: https://doi.org/10.1007/978-1-4842-4246-9. 
+- Nunez-Iglesias, J., Van Der Walt, S., & Dashnow, H. (2017). Elegant SciPy: The Art of Scientific Python. " O'Reilly Media, Inc.".
+- Unpingco, J. (2016). Python for probability, statistics, and machine learning (Vol. 1). Springer International Publishing.
+- VanderPlas, J. (2016). Python data science handbook: Essential tools for working with data. " O'Reilly Media, Inc.".
+- https://www.cienciadedatos.net/ --> Un recurso en la web muy bueno para el aprendizaje de varios tópicos relativos a la ciencia de datos.
+- https://pablormier.github.io/2017/09/05/a-tutorial-on-differential-evolution-with-python/ --> Un recurso maravilloso para aprender a implementar el algoritmo de evolución diferencial en Python desde cero.
+- https://pyswarms.readthedocs.io/en/latest/ --> Documentación de la librería **PySwarms**.
+- https://docs.scipy.org/doc/scipy/ --> Documentación y *user guide* para la librería **Scipy**.

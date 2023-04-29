@@ -70,3 +70,11 @@
         - 5.3.3 Ventanas de tiempo móviles.
     - 5.4 Un último comentario acerca de las zonas horarias.
     - 5.5 Comentarios.
+
+---
+## Bibliografía y referencias.
+
+- Géron, A. (2022). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow. " O'Reilly Media, Inc.".
+- VanderPlas, J. (2016). Python data science handbook: Essential tools for working with data. " O'Reilly Media, Inc.".
+- https://aman.ai/primers/pandas/ --> Un tutorial completísimo de **Pandas** (y muchos otros recursos) de Aman Chadha. Su página web es maravillosa, no duden en visitarla.
+- https://pandas.pydata.org/docs/user_guide/index.html --> La guía de usuario de **Pandas**. Un lugar maravilloso (aunque un poquito intrincado y denso) para aprender a utilizar esta librería.

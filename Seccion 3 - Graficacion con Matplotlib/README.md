@@ -62,3 +62,11 @@
     - 5.2 Visualización de distribuciones de frecuencias.
     - 5.3 Mapas de calor.
     - 5.4 Comentarios.
+
+---
+## Bibliografía y referencias.
+
+- Géron, A. (2022). Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow. " O'Reilly Media, Inc.".
+- VanderPlas, J. (2016). Python data science handbook: Essential tools for working with data. " O'Reilly Media, Inc.".
+- https://github.com/ageron/handson-ml3 --> El respositorio online del libro *Hands-on machine learning with Scikit-Learn, Keras, and TensorFlow* del gran Aurélien Geron. Si bien este libro está orientado a desarrollar conceptos más en línea de los algoritmos de aprendizaje (machine learning), su repositorio posee recursos de graficación que son simplemente extraordinarios en lo que respecta a **Matplotlib**. De verdad le hace honores a su mote de "hands-on".
+- https://matplotlib.org/stable/users/index.html --> La guía de usuario de **Matplotlib**, se trata de un maravilloso recurso para aprender a utilizar esta librería con todo su potencial.
