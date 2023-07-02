@@ -1,0 +1,34 @@
+# PARTE 5: Análisis de datos con Polars.
+---
+
+## Índice de contenidos.
+- [**CLASE 1:** Una introducción a la librería **<font color="mediumorchid">Polars</font>**.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Secci%C3%B3n%205%20-%20Introducci%C3%B3n%20a%20Polars/clase_5_1.ipynb)
+    - 1.1 Introducción.
+    - 1.2 Tipos de datos en **<font color="mediumorchid">Polars</font>**.
+    - 1.3 Series.
+    - 1.4 DataFrames.
+    - 1.5 Contextos.
+        - 1.5.1 Selección de datos vía contextos.
+        - 1.5.2 Selección de datos conforme filas.
+        - 1.5.3 Filtrado de datos.
+    - 1.6 Comentarios.
+- [**CLASE 2:** Manipulación de datos en estructuras de **<font color="mediumorchid">Polars</font>**.](https://github.com/rquezadac/udd_data_analytics_lectures/blob/main/Secci%C3%B3n%205%20-%20Introducci%C3%B3n%20a%20Polars/clase_5_2.ipynb)
+    - 2.1 Carga y guardado de datos en **<font color="mediumorchid">Polars</font>**.
+    - 2.2 Iteraciones sobre filas... otra vez.
+    - 2.3 Contexto de agrupamiento.
+    - 2.4 Expresiones de **<font color="mediumorchid">Polars</font>**.
+        - 2.4.1 Operatoria básica.
+        - 2.4.2 Funciones aplicables sobre DataFrames.
+        - 2.4.3 Cambios en los tipos de datos.
+        - 2.4.4 Evaluación de strings.
+        - 2.4.5 Agregaciones y ordenamientos.
+        - 2.4.6 Manejo de entradas vacías.
+            - 2.4.6.1 Valores `null` y `NaN`.
+            - 2.4.6.2 Imputaciones de data faltante en **<font color="mediumorchid">Polars</font>**.
+            - 2.4.6.3 Tratamiento de `NaN`.
+        - 2.4.7 Funciones de tipo ventana.
+        - 2.4.8 Agregaciones arbitrarias mediante `pl.fold()`.
+        - 2.4.9 Cómputos con listas y arreglos.
+        - 2.4.10 Expresiones arbitrarias con `map()` y `apply()`.
+        - 2.4.11 Soporte e interoperabilidad con **<font color="mediumorchid">Numpy</font>**.
+    - 2.5 Comentarios.
